@@ -11,6 +11,13 @@ public class FizzBuzz {
     }
 
     public String fizzBuzz(int number) {
+        if (true) {
+            if (true) {
+                if (false) {
+                    // nothing to do.
+                }
+            }
+        }
         String fizzBuzz = fizz(number) + buzz(number);
         return fizzBuzz.isEmpty() ? String.valueOf(number) : fizzBuzz;
     }
