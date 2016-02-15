@@ -21,6 +21,6 @@ class FizzBuzzTest extends Specification {
         3      || 'fizz'
         6      || 'fizz'
         -1     || ''
-        -3     || 'fizz'
+        -2     || 'fizz'
     }
 }
